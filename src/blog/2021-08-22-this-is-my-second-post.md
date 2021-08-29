@@ -1,6 +1,8 @@
 ---
 title: This is my second post
 date: 2021-08-22T16:25:02.263Z
+contentKey: blog
+
 ---
 <!--StartFragment-->
 

@@ -1,6 +1,8 @@
 ---
 title: hello again new blog
 date: 2021-08-28T17:39:46.628Z
+contentKey: blog
+
 ---
 <!--StartFragment-->
 
