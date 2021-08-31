@@ -1,5 +1,6 @@
 ---
-title: Coffee and Bakery Menu
+title: Coffee and Bakery 
+contentKey: menu
 categories:
   - name: Iced Drinks
     items:
@@ -10,7 +11,7 @@ categories:
         description: Espresso and chilled milk poured over ice
         price: $3.49
       - name: Iced Mocha
-        description: |-
+        description: |
           Espresso and mocha sauce, milk and ice, with
           whipped cream
         price: $3.49
